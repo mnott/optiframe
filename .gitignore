@@ -1,0 +1,27 @@
+__pycache__
+.vscode
+.claude
+
+# TeX artifacts (excluding PDF output)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.figlist
+*.makefile
+*.listing
